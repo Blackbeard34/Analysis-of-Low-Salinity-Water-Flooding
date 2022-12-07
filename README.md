@@ -11,7 +11,7 @@ We did a graphical analysis of the variation of the Oil recovery as we vary the 
 
 ## Authors
 
-- [@Blackbeard34](https://www.github.com/Blackbeard34)
+- [@imvishal34](https://www.github.com/imvishal34)
 
 - [@Shreyanshu333](https://www.github.com/Shreyanshu333)
 
